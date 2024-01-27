@@ -8,5 +8,7 @@
 
 ## Application Screenshots
 
-![Screenshot](screenshot.gif)
+<img src="Wireframe2.png" alt="Wireframe Image" style="height: 300px; width:150px;"/>
+<img src="Wireframe3.png" alt="Wireframe Image" style="height: 300px; width:150px;"/>
+<img src="Wireframe4.png" alt="Wireframe Image" style="height: 300px; width:150px;"/>
 
