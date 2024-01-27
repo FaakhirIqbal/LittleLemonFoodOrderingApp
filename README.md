@@ -1,4 +1,4 @@
-# Little Lemon Food Ordering Application
+# Little Lemon Food Ordering React
 
 ## Wireframe Figma
 
@@ -9,5 +9,5 @@
 ## Application Screenshots
 
 <img src="Wireframe2.png" alt="Wireframe Image" />
-<img src="Wireframe3.png" alt="Wireframe Image" style="height: 300px; width:250px;"/>
+<img src="Wireframe3.png" alt="Wireframe Image" "/>
 
