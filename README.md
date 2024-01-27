@@ -4,7 +4,7 @@
 
 <img src="Wireframe1.png" alt="Wireframe Image" style="height: 300px; width:150px;"/>
 
-## Application Screenshots
+## Application required results
 
 <img src="Wireframe2.png" alt="Wireframe Image" />
 <img src="Wireframe3.png" alt="Wireframe Image" "/>
